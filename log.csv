@@ -1,0 +1,3 @@
+Time,"User full name","Affected user","Event context",Component,"Event name",Description,Origin,"IP address"
+"4/01/16, 13:31","Barbara Gardner",-,"Course: Student Council",Logs,"Log report viewed","The user with id '56' viewed the log report for the course with id '60'.",web,106.51.26.201
+"4/01/16, 13:31","Barbara Gardner",-,"Course: Student Council",System,"Course viewed","The user with id '56' viewed the course with id '60'.",web,106.51.26.201
